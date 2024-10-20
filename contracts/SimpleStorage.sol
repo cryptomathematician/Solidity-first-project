@@ -33,5 +33,5 @@ contract SimpleStorage {
 
 // 0x48B94361FD30900Bd91a6C96013c9a8d07c670cd
 
-// EVM can access and store information in 6 places: 1. stack 2. storage 3. Calldata 4.code 5.memory 6.logs
+// EVM can access and store information in 6 places: 1.stack 2.storage 3.Calldata 4.code 5.memory 6.logs
 
